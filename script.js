@@ -64,7 +64,7 @@ const projects = [
   {
     title: 'Movie',
     img: 'movie.jpeg',
-    link: 'https://github.com/YashWadbude/Viewtopia' // replace with actual link
+    link: 'https://github.com/YashWadbude/NoCostNights' // replace with actual link
   }
 ];
 
