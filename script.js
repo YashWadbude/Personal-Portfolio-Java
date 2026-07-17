@@ -64,7 +64,7 @@ const projects = [
   {
     title: 'Movie',
     img: 'movie.jpeg',
-    link: 'https://nocostnights.onrender.com/' // replace with actual link
+    link: 'https://nocostnights.onrender.com' // replace with actual link
   }
 ];
 
