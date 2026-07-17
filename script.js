@@ -50,22 +50,21 @@ window.addEventListener('scroll', () => {
 const projectsContainer = document.querySelector('.projects-container');
 
 const projects = [
-  {
+{
     title: 'Personal Portfolio',
     img: 'portfolio.jpg',
-    link: 'https://yashwadbude.github.io/Personal-Portfolio/#'
-  },
-  {
+    link: 'https://yashwadbude.github.io/Personal-Portfolio/'
+},
+{
     title: 'Real Time Hand Gesture to Text Translation',
     img: 'hand_gesture.png',
     link: 'https://github.com/YashWadbude/Hand-Gesture-to-text-Translator'
-  },
-  
-  {
+},
+{
     title: 'Movie',
     img: 'movie.jpeg',
-    link: 'https://nocostnights.onrender.com' // replace with actual link
-  }
+    link: 'https://nocostnights.onrender.com'
+}
 ];
 
 function renderProjects() {
