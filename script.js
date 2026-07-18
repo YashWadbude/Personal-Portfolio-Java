@@ -53,7 +53,7 @@ const projects = [
 {
     title: 'Personal Portfolio',
     img: 'portfolio.jpg',
-    link: 'https://yashwadbude.github.io/Personal-Portfolio/'
+    link: 'https://yashwadbude.github.io/Personal-Portfolio-Java/'
 },
 {
     title: 'Real Time Hand Gesture to Text Translation',
